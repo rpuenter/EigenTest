@@ -1,2 +1,2 @@
 # EigenTest
-Test the efficiency of Eigen library exact linear solvers vs matrix inverse in an iterative context
+Test the efficiency of exact linear solvers vs matrix inverse in an iterative context
